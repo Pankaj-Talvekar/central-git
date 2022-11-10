@@ -10,3 +10,24 @@ sudo unzip limelight.zip
 cd limelight-html
 sudo mv * ..
 
+linux kernel base OS
+OS--->  mediator
+
+   OS Development
+
+1> DOS --- Disk Operating System      single user     single task
+2> Windows 7,8,10                     single user     multiple task
+3> win.Server 13,19, centOS Redhat    multiple user    multiple task
+
+
+Types OS
+
+Desktop OS (GPOS)
+
+1. Client OS
+2.Easy to use
+3.GUI based
+4.cheeper as compare server OS
+5.less efficiecy
+6. less stable
+
